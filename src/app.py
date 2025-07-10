@@ -63,7 +63,7 @@ activities = {
         "description": "Participate in theater productions and acting workshops",
         "schedule": "Fridays, 4:00 PM - 6:00 PM",
         "max_participants": 25,
-        "participants": ["charlotte@mergington.edu", "jackson@mergington.edu"]
+        "participants": []
     },
     # Intellectual activities
     "Math Club": {
